@@ -1,0 +1,18 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TestPosts\TestPosts\obj\Release\TestPosts.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TestPosts\TestPosts\obj\Release\TestPosts.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TestPosts\TestPosts\obj\Release\TestPosts.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TestPosts\TestPosts\bin\Release\NewInstaPosts.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TestPosts\TestPosts\bin\Release\NewInstaPosts.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TestPosts\TestPosts\bin\Release\NewInstaPosts.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TestPosts\TestPosts\obj\Release\NewInstaPosts.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TestPosts\TestPosts\obj\Release\NewInstaPosts.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\TestPosts\TestPosts\obj\Release\TestPosts.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Работа\NewTestPosts\TestPosts\bin\Release\NewInstaPosts.exe.config
+C:\Users\Admin\Desktop\Работа\NewTestPosts\TestPosts\obj\Release\NewInstaPosts.exe
+C:\Users\Admin\Desktop\Работа\NewTestPosts\TestPosts\obj\Release\NewInstaPosts.pdb
+C:\Users\Admin\Desktop\Работа\NewTestPosts\TestPosts\bin\Release\NewInstaPosts.exe
+C:\Users\Admin\Desktop\Работа\NewTestPosts\TestPosts\bin\Release\NewInstaPosts.pdb
+C:\Users\Admin\Desktop\Работа\NewTestPosts\TestPosts\obj\Release\TestPosts.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Работа\NewTestPosts\TestPosts\obj\Release\TestPosts.Form1.resources
+C:\Users\Admin\Desktop\Работа\NewTestPosts\TestPosts\obj\Release\TestPosts.Properties.Resources.resources
+C:\Users\Admin\Desktop\Работа\NewTestPosts\TestPosts\obj\Release\TestPosts.csproj.GenerateResource.Cache
